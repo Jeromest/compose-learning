@@ -87,7 +87,6 @@ fun Conversation(messages: List<Message>) {
     }
 }
 
-
 @Preview(name = "Light Mode")
 @Preview(
     name = "Dark Mode",
